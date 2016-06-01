@@ -20,6 +20,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Authentication and OAuth
 * [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Roudauth wrapper for hanami apps
+* [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
 
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
