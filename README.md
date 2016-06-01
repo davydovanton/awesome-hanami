@@ -10,6 +10,9 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
   * [Validation and Alerts](#validation-and-alerts)
+* [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
+* [Hanami Project List](#hanami-project-list)
+* [Benchmarks](#benchmarks)
 
 ## Hanami Gem List
 ### Assets
@@ -21,9 +24,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Authentication and OAuth
 * [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Roudauth wrapper for hanami apps
 * [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
-
-### Benchmarks
-* [hanami-bench](https://github.com/davydovanton/hanami-bench) - Benchmarks for hanami
 
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
@@ -39,6 +39,8 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to an Hanami application.
 * [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
 
+## Vanilla Libraries and Hanami
+
 ## Hanami Project List
  
 * [shoobox.io](http://www.shoobox.io) - The snippet manager.
@@ -46,6 +48,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [link-shortener](https://github.com/davydovanton/link-shortener) - Simple hanami link shortener application.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
+
+## Benchmarks
+* [hanami-bench](https://github.com/davydovanton/hanami-bench) - Benchmarks for hanami
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
