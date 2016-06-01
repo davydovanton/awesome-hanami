@@ -44,6 +44,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [shoobox.io](http://www.shoobox.io) - The snippet manager.
 * [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web.
 * [link-shortener](https://github.com/davydovanton/link-shortener) - Simple hanami link shortener application.
+* [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
