@@ -21,6 +21,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Authentication and OAuth
 * [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Roudauth wrapper for hanami apps
 
+### Benchmarks
+* [hanami-bench](https://github.com/davydovanton/hanami-bench) - Benchmarks for hanami
+
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
 
@@ -36,6 +39,10 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
 
 ## Hanami Project List
+ 
+* [shoobox.io](http://www.shoobox.io) - The snippet manager.
+* [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web.
+* [link-shortener](https://github.com/davydovanton/link-shortener) - Simple hanami link shortener application.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
