@@ -42,7 +42,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ## Hanami Project List
  
 * [shoobox.io](http://www.shoobox.io) - The snippet manager.
-* [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web.
+* [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web ([Sources](https://github.com/jxxcarlson/noteshare)).
 * [link-shortener](https://github.com/davydovanton/link-shortener) - Simple hanami link shortener application.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
