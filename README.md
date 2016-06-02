@@ -10,6 +10,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
   * [Validation and Alerts](#validation-and-alerts)
+  * [Text Editor Plugins](#text-editor-plugins)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
 * [Hanami Project List](#hanami-project-list)
 * [Benchmarks](#benchmarks)
@@ -38,6 +39,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Validation and Alerts
 * [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to an Hanami application.
 * [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
+
+### Text Editor Plugins
+* [projectile-hanami](https://github.com/avdgaag/projectile-hanami) - Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.
 
 ## Vanilla Libraries and Hanami
 
