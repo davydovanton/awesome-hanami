@@ -25,7 +25,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
 
 ### Authentication and OAuth
-* [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Roudauth wrapper for hanami apps
+* [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Rodauth wrapper for hanami apps
 * [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
 
 ### File Uploading
@@ -39,7 +39,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [shoulda-hanami](https://github.com/mcorp/shoulda-hanami) - Making tests easy on the fingers and eyes, but on hanami (old shoulda-lotus)
 
 ### Validation and Alerts
-* [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to an Hanami application.
+* [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to a Hanami application.
 * [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
 
 ### Text Editor Plugins
@@ -62,7 +62,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 
 ## Useful Links
-* [StackOwerflow question](http://stackoverflow.com/questions/tagged/hanami)
+* [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
 
 ### User Groups
 * [São Paulo, Brasil](https://twitter.com/hanamirb_sp) - Grupo de usuários Hanami-rb de São Paulo.
