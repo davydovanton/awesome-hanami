@@ -66,6 +66,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### User Groups
 * [São Paulo, Brasil](https://twitter.com/hanamirb_sp) - Grupo de usuários Hanami-rb de São Paulo.
+* [Facebook, Brasil](https://www.facebook.com/groups/1415625271796799) - Grupo brasileiro de discussão no Facebook.
 
 ### Benchmarks
 * [hanami-bench](https://github.com/davydovanton/hanami-bench) - Benchmarks for hanami
