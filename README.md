@@ -15,6 +15,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
 * [Hanami Project List](#hanami-project-list)
 * [Useful Links](#useful-links)
+  * [Blog Posts](#blog-posts)
   * [Benchmarks](#benchmarks)
   * [User Groups](#user-groups)
 
@@ -64,9 +65,11 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
 
-
 ## Useful Links
 * [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
+
+### Blog Posts
+* [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
 
 ### User Groups
 * [São Paulo, Brasil](https://twitter.com/hanamirb_sp) - Grupo de usuários Hanami-rb de São Paulo.
