@@ -14,6 +14,42 @@
 
   <title>Awesome Hanami</title>
 
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+  <script src='javascripts/legacy.js'></script>
+  <script src='javascripts/flatdoc.js'></script>
+  <script src='javascripts/app.js'></script>
+  <link  href='stylesheets/main.css' rel='stylesheet'>
+
+  <script>
+    Flatdoc.run({
+      fetcher: Flatdoc.github('davydovanton/awesome-hanami')
+    });
+  </script>
 </head>
-  <h1>Awesome Hanami</h1>
+<body role='flatdoc' class='no-literate large-brief'>
+  <div class='header'>
+    <div class='left'>
+      <img src="images/logo.png">
+      <ul>
+        <li><a href='https://github.com/davydovanton/awesome-hanami'>View on GitHub</a></li>
+        <li><a href='https://github.com/davydovanton/awesome-hanami/issues'>Issues</a></li>
+        <li><a href='https://github.com/davydovanton/awesome-hanami/edit/master/README.md'>Edit</a></li>
+      </ul>
+    </div>
+    <div class='right'>
+      <iframe src="http://ghbtns.com/github-btn.html?user=davydovanton&repo=awesome-hanami&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+      <iframe src="http://ghbtns.com/github-btn.html?user=davydovanton&repo=awesome-hanami&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+    </div>
+  </div>
+
+  <div class='content-root'>
+    <div class='menubar'>
+      <div class='menu section' role='flatdoc-menu'></div>
+    </div>
+    <div role='flatdoc-content' class='content'></div>
+  </div>
+</body>
 </html>
