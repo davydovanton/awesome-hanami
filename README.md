@@ -23,12 +23,13 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Assets
 * [assets-library-for-hanami](https://github.com/cabeza-de-termo/assets-library-for-hanami) - A framework to declare bundles of assets in your Hanami application and collect them resolving the dependencies.
 * [assets-publisher-for-hanami](https://github.com/cabeza-de-termo/assets-publisher-for-hanami) - A framework to declare bundles of assets in your Lotus application, compile them into a public folder and add them to your template.
-* [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework. 
+* [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
 
 ### Authentication and OAuth
 * [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Rodauth wrapper for hanami apps
 * [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
+* [tachiban](https://github.com/sebastjan-hribar/tachiban) - Authentication with bcrypt for Hanami apps
 
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
