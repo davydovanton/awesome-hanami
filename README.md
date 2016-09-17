@@ -10,6 +10,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
   * [Validation and Alerts](#validation-and-alerts)
+  * [Database](#Database)
   * [CLI](#cli)
   * [Text Editor Plugins](#text-editor-plugins)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
@@ -44,6 +45,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Validation and Alerts
 * [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to a Hanami application.
 * [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
+
+### Database
+* [hanami-rethinkdb](https://github.com/angeloashmore/hanami-rethinkdb) - RethinkDB adapter for Hanami::Model
 
 ### CLI
 * [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
