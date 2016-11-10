@@ -10,10 +10,13 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
   * [Validation and Alerts](#validation-and-alerts)
+  * [Database](#Database)
+  * [CLI](#cli)
   * [Text Editor Plugins](#text-editor-plugins)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
 * [Hanami Project List](#hanami-project-list)
 * [Useful Links](#useful-links)
+  * [Blog Posts](#blog-posts)
   * [Benchmarks](#benchmarks)
   * [User Groups](#user-groups)
 
@@ -21,12 +24,13 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Assets
 * [assets-library-for-hanami](https://github.com/cabeza-de-termo/assets-library-for-hanami) - A framework to declare bundles of assets in your Hanami application and collect them resolving the dependencies.
 * [assets-publisher-for-hanami](https://github.com/cabeza-de-termo/assets-publisher-for-hanami) - A framework to declare bundles of assets in your Lotus application, compile them into a public folder and add them to your template.
-* [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework. 
+* [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
 
 ### Authentication and OAuth
 * [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Rodauth wrapper for hanami apps
 * [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
+* [tachiban](https://github.com/sebastjan-hribar/tachiban) - Authentication with bcrypt for Hanami apps
 
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
@@ -42,6 +46,12 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to a Hanami application.
 * [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
 
+### Database
+* [hanami-rethinkdb](https://github.com/angeloashmore/hanami-rethinkdb) - RethinkDB adapter for Hanami::Model
+
+### CLI
+* [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
+
 ### Text Editor Plugins
 * [projectile-hanami](https://github.com/avdgaag/projectile-hanami) - Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.
 
@@ -52,6 +62,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [Sequel plugins](http://sequel.jeremyevans.net/plugins.html) - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext)
 * [letter_opener](https://github.com/ryanb/letter_opener) - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
 * [mongoid](https://github.com/mongodb/mongoid) - [github](https://github.com/michalvalasek/hanami-mongoid)
+* [Trailblazer](https://github.com/apotonick/trailblazer) - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami)
 
 ## Hanami Project List
 * [shoobox.io](http://www.shoobox.io) - The snippet manager.
@@ -59,13 +70,19 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [link-shortener](https://github.com/davydovanton/link-shortener) - Simple hanami link shortener application.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
-
+* [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
+* [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
 
 ## Useful Links
 * [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
 
+### Blog Posts
+* [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
+* [Livereload and Hanami](https://defman.me/blog/hanami-love-livereload/)
+
 ### User Groups
 * [São Paulo, Brasil](https://twitter.com/hanamirb_sp) - Grupo de usuários Hanami-rb de São Paulo.
+* [Facebook, Brasil](https://www.facebook.com/groups/1415625271796799) - Grupo brasileiro de discussão no Facebook.
 
 ### Benchmarks
 * [hanami-bench](https://github.com/davydovanton/hanami-bench) - Benchmarks for hanami
