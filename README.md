@@ -13,6 +13,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Database](#Database)
   * [CLI](#cli)
   * [Text Editor Plugins](#text-editor-plugins)
+  * [Building APIs](#building-apis)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
 * [Hanami Project List](#hanami-project-list)
 * [Useful Links](#useful-links)
@@ -54,6 +55,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Text Editor Plugins
 * [projectile-hanami](https://github.com/avdgaag/projectile-hanami) - Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.
+
+### Building APIs
+* [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
 
 ## Vanilla Libraries and Hanami
 * [omniauth](https://github.com/intridea/omniauth) - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
