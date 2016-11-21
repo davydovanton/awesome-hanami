@@ -79,6 +79,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Blog Posts
 * [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
 * [Livereload and Hanami](https://defman.me/blog/hanami-love-livereload/)
+* [Deploying Hanami web application with Puma, Nginx and PostgreSQL using Docker](http://codrspace.com/sebastjan-hribar/deploying-hanami-web-application-with-puma-nginx-postgresql/)
 
 ### User Groups
 * [São Paulo, Brasil](https://twitter.com/hanamirb_sp) - Grupo de usuários Hanami-rb de São Paulo.
