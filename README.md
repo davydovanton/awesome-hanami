@@ -43,6 +43,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Testing
 * [rspec-hanami](https://github.com/davydovanton/rspec-hanami) - RSpec Matchers for Hanami
 * [shoulda-hanami](https://github.com/mcorp/shoulda-hanami) - Making tests easy on the fingers and eyes, but on hanami (old shoulda-lotus)
+* [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Utility to easily integrate [Fabricator](https://www.fabricationgem.org/) gem and Hanami
 
 ### Validation and Alerts
 * [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to a Hanami application.
@@ -59,6 +60,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Building APIs
 * [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
+* [hanami-jbuilder](https://github.com/vladfaust/hanami-jbuilder) - Support for rendering JBuilder templates for Hanami apps
 
 ## Vanilla Libraries and Hanami
 * [omniauth](https://github.com/intridea/omniauth) - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
