@@ -43,7 +43,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Testing
 * [rspec-hanami](https://github.com/davydovanton/rspec-hanami) - RSpec Matchers for Hanami
 * [shoulda-hanami](https://github.com/mcorp/shoulda-hanami) - Making tests easy on the fingers and eyes, but on hanami (old shoulda-lotus)
-* [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Utility to easily integrate [Fabricator](https://www.fabricationgem.org/) gem and Hanami
+* [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Utility to easily integrate [Fabrication](https://www.fabricationgem.org/) gem and Hanami
 
 ### Validation and Alerts
 * [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to a Hanami application.
