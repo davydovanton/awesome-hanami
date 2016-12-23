@@ -62,6 +62,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
 * [hanami-jbuilder](https://github.com/vladfaust/hanami-jbuilder) - Support for rendering JBuilder templates for Hanami apps
 
+### Deploy
+* [mina-hanami](https://github.com/mgrachev/mina-hanami) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami.
+
 ## Vanilla Libraries and Hanami
 * [omniauth](https://github.com/intridea/omniauth) - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
 * [Sidekiq](http://sidekiq.org) - [From Rails to Hanami Part 3](http://rpanachi.com/2016/04/25/from-rails-to-hanami-part3-sidekiq-workers-i18n-timezone-issues-core-ext), [Use Sidekiq With Hanami](http://www.strauss.io/blog/2016-use-sidekiq-with-hanami.html)
