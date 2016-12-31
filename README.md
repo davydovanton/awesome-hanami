@@ -14,6 +14,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [CLI](#cli)
   * [Text Editor Plugins](#text-editor-plugins)
   * [Building APIs](#building-apis)
+  * [Deploy](#deploy)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
 * [Hanami Project List](#hanami-project-list)
 * [Useful Links](#useful-links)
@@ -64,6 +65,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Deploy
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami.
+* [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano).
 
 ## Vanilla Libraries and Hanami
 * [omniauth](https://github.com/intridea/omniauth) - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
