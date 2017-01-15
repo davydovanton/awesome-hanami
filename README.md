@@ -12,9 +12,9 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Validation and Alerts](#validation-and-alerts)
   * [Database](#Database)
   * [CLI](#cli)
-  * [Text Editor Plugins](#text-editor-plugins)
   * [Building APIs](#building-apis)
   * [Deploy](#deploy)
+  * [Editors and IDE](#editors-and-ide)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
 * [Hanami Project List](#hanami-project-list)
 * [Useful Links](#useful-links)
@@ -56,9 +56,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### CLI
 * [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
 
-### Text Editor Plugins
-* [projectile-hanami](https://github.com/avdgaag/projectile-hanami) - Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.
-
 ### Building APIs
 * [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
 * [hanami-jbuilder](https://github.com/vladfaust/hanami-jbuilder) - Support for rendering JBuilder templates for Hanami apps
@@ -66,6 +63,10 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Deploy
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami.
 * [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano).
+
+### Editors and IDE
+* [How to run Hanami in RubyMine](https://medium.com/@tetyanachupryna/how-to-run-hanami-in-rubymine-dff342cb0114#.7jb2bjq9f)
+* [projectile-hanami](https://github.com/avdgaag/projectile-hanami) - Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.
 
 ## Vanilla Libraries and Hanami
 * [omniauth](https://github.com/intridea/omniauth) - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
