@@ -97,6 +97,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [Deploying Hanami web application with Puma, Nginx and PostgreSQL using Docker](http://codrspace.com/sebastjan-hribar/deploying-hanami-web-application-with-puma-nginx-postgresql/)
 * [Getting Started with Hanami and GraphQL](https://blog.simplificator.com/2016/12/07/getting-started-with-hanami-and-graphql/)
 * [From Rails to Hanami: Models](https://blog.codeminer42.com/from-rails-to-hanami-models-d1175d2d5b33)
+* [IoT Saga - My first (for development) setup for a Hanami application](http://gabrielmalakias.com.br/hanami/iot/docker/2017/02/14/iot-saga-my-setup-for-a-hanami-application.html)
 
 ### User Groups
 * [São Paulo, Brasil](https://twitter.com/hanamirb_sp) - Grupo de usuários Hanami-rb de São Paulo.
