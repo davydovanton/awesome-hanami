@@ -10,7 +10,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
   * [Validation and Alerts](#validation-and-alerts)
-  * [Database](#Database)
+  * [Database](#database)
   * [CLI](#cli)
   * [Building APIs](#building-apis)
   * [Deploy](#deploy)
