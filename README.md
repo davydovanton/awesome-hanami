@@ -23,8 +23,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ## Hanami Gem List
 ### Assets
-* [assets-library-for-hanami](https://github.com/cabeza-de-termo/assets-library-for-hanami) - A framework to declare bundles of assets in your Hanami application and collect them resolving the dependencies.
-* [assets-publisher-for-hanami](https://github.com/cabeza-de-termo/assets-publisher-for-hanami) - A framework to declare bundles of assets in your Hanami application, compile them into a public folder and add them to your template.
 * [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
 * [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) - A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.
@@ -44,10 +42,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [rspec-hanami](https://github.com/davydovanton/rspec-hanami) - RSpec Matchers for Hanami
 * [shoulda-hanami](https://github.com/mcorp/shoulda-hanami) - Making tests easy on the fingers and eyes, but on hanami (old shoulda-lotus)
 * [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Utility to easily integrate [Fabrication](https://www.fabricationgem.org/) gem and Hanami
-
-### Validation and Alerts
-* [alert-messages-for-hanami](https://github.com/cabeza-de-termo/alert-messages-for-hanami) - Helper to add alert messages (including flash .. aah! messages) to a Hanami application.
-* [validation-messages-for-hanami](https://github.com/cabeza-de-termo/validation-messages-for-hanami) - Helper to customize the validation messages in Hanami application views.
 
 ### Database
 * [hanami-rethinkdb](https://github.com/angeloashmore/hanami-rethinkdb) - RethinkDB adapter for Hanami::Model
@@ -78,7 +72,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [Factory Girl](https://github.com/thoughtbot/factory_girl) - [Hanami with Factory Girl](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
 
 ## Hanami Project List
-* [shoobox.io](http://www.shoobox.io) - The snippet manager.
 * [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web ([Sources](https://github.com/jxxcarlson/noteshare)).
 * [link-shortener](https://github.com/davydovanton/link-shortener) - Simple hanami link shortener application.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
