@@ -9,7 +9,6 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [File Uploading](#file-uploading)
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
-  * [Validation and Alerts](#validation-and-alerts)
   * [Database](#database)
   * [CLI](#cli)
   * [Building APIs](#building-apis)
