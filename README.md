@@ -45,6 +45,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Database
 * [hanami-rethinkdb](https://github.com/angeloashmore/hanami-rethinkdb) - RethinkDB adapter for Hanami::Model
+* [rom_sql_graph](https://github.com/davydovanton/rom_sql_graph) - DB (sql) association graph for hanami and rom projects
 
 ### CLI
 * [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
