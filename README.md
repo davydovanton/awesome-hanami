@@ -79,6 +79,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
 * [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
 * [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
+* [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
 
 ## Useful Links
 * [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
