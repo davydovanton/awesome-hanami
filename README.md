@@ -80,6 +80,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
 * [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
+* [app.dartboard.io](http://app.dartboard.io) - Online darts scorer app built with Hanami([Sources](https://github.com/stravid/datsu-api))
+* [distruct-me](https://github.com/MorozovaLiuda/distruct-me) - App on Hanami for self-distructing messages
+
 
 ## Useful Links
 * [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
