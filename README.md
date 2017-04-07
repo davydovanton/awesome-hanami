@@ -87,6 +87,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ## Useful Links
 * [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
 * [reddit.com/r/hanamirb](https://www.reddit.com/r/hanamirb/)
+* [Discourse](https://discourse.hanamirb.org/)
 
 ### Blog Posts
 * [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
