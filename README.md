@@ -44,7 +44,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Utility to easily integrate [Fabrication](https://www.fabricationgem.org/) gem and Hanami
 
 ### Database
-* [hanami-rethinkdb](https://github.com/angeloashmore/hanami-rethinkdb) - **works only with hanami < 0.9**RethinkDB adapter for Hanami::Model
 * [rom_sql_graph](https://github.com/davydovanton/rom_sql_graph) - DB (sql) association graph for hanami and rom projects
 
 ### CLI
@@ -85,8 +84,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place
 
 ## Useful Links
-* [StackOverflow questions](http://stackoverflow.com/questions/tagged/hanami)
-* [reddit.com/r/hanamirb](https://www.reddit.com/r/hanamirb/)
+* [Community page on the official site](http://hanamirb.org/community/)
 
 ### Blog Posts
 * [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
