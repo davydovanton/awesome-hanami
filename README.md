@@ -52,6 +52,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Building APIs
 * [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
 * [hanami-jbuilder](https://github.com/vladfaust/hanami-jbuilder) - Support for rendering JBuilder templates for Hanami apps
+* [hanami-serializer](https://github.com/davydovanton/hanami-serializer) - Serializer library for hanami applications
 
 ### Deploy
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami.
