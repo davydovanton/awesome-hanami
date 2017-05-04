@@ -73,6 +73,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [Factory Girl](https://github.com/thoughtbot/factory_girl) - [Hanami with Factory Girl](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
 
 ## Hanami Project List
+* [loan application platform](http://creditas.com.br) - A brazilian startup for credit loan using car or house as guarantee. 
 * [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web ([Sources](https://github.com/jxxcarlson/noteshare)).
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
