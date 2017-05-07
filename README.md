@@ -73,17 +73,22 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [Factory Girl](https://github.com/thoughtbot/factory_girl) - [Hanami with Factory Girl](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
 
 ## Hanami Project List
+### Closed Source
 * [loan application platform](http://creditas.com.br) - A brazilian startup for credit loan using car or house as guarantee. 
+
+### Open Source
+* [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
+* [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place
+* [app.dartboard.io](http://app.dartboard.io) - Online darts scorer app built with Hanami([Sources](https://github.com/stravid/datsu-api))
+* [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
 * [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web ([Sources](https://github.com/jxxcarlson/noteshare)).
+
+### Play/Pet projects
+* [distruct-me](https://github.com/MorozovaLiuda/distruct-me) - App on Hanami for self-distructing messages
+* [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
-* [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
-* [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
-* [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [app.dartboard.io](http://app.dartboard.io) - Online darts scorer app built with Hanami([Sources](https://github.com/stravid/datsu-api))
-* [distruct-me](https://github.com/MorozovaLiuda/distruct-me) - App on Hanami for self-distructing messages
-* [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place
 
 ## Useful Links
 * [Community page on the official site](http://hanamirb.org/community/)
