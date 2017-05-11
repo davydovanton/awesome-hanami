@@ -74,7 +74,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ## Hanami Project List
 ### Closed Source
-* [loan application platform](http://creditas.com.br) - A brazilian startup for credit loan using car or house as guarantee. 
+* [loan application platform](http://creditas.com.br) - A brazilian startup for credit loan using car or house as guarantee.
 
 ### Open Source
 * [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
@@ -89,6 +89,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
+* [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) (compatible with [AnyCable](http://anycable.io/))
 
 ## Useful Links
 * [Community page on the official site](http://hanamirb.org/community/)
