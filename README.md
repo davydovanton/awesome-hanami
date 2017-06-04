@@ -10,6 +10,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Performance Monitoring](#performance-monitoring)
   * [Testing](#testing)
   * [Database](#database)
+  * [Pagination](#pagination)
   * [CLI](#cli)
   * [Building APIs](#building-apis)
   * [Deploy](#deploy)
@@ -45,6 +46,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Database
 * [rom_sql_graph](https://github.com/davydovanton/rom_sql_graph) - DB (sql) association graph for hanami and rom projects
+
+### Pagination
+* [hanami-pagination](https://github.com/davydovanton/hanami-pagination) - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
 ### CLI
 * [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
