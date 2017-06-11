@@ -82,7 +82,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Open Source
 * [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
-* [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place
+* [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place ([Sources](https://github.com/hanami/contributors)).
 * [app.dartboard.io](http://app.dartboard.io) - Online darts scorer app built with Hanami([Sources](https://github.com/stravid/datsu-api))
 * [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
 * [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web ([Sources](https://github.com/jxxcarlson/noteshare)).
