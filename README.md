@@ -94,6 +94,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) (compatible with [AnyCable](http://anycable.io/))
+* [Deutsch](https://github.com/mjacobus/deutsch) - prototype tool for learning German, available [here](http://salat.netapps.website/).
 
 ## Useful Links
 * [Community page on the official site](http://hanamirb.org/community/)
