@@ -13,6 +13,7 @@ The goal is to help every hanami developer to build an awesome product/service.
   * [Pagination](#pagination)
   * [CLI](#cli)
   * [Building APIs](#building-apis)
+  * [API Documentation](#api-documentation)
   * [Deploy](#deploy)
   * [Editors and IDE](#editors-and-ide)
 * [Vanilla Libraries and Hanami](#vanilla-libraries-and-hanami)
@@ -57,6 +58,9 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
 * [hanami-jbuilder](https://github.com/vladfaust/hanami-jbuilder) - Support for rendering JBuilder templates for Hanami apps
 * [hanami-serializer](https://github.com/davydovanton/hanami-serializer) - Serializer library for hanami applications
+
+### API Documentation
+* [had](https://github.com/nsheremet/had) - Hanami API Documentation
 
 ### Deploy
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami.
