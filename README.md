@@ -53,6 +53,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### CLI
 * [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
+* [hanami-zsh](https://github.com/davydovanton/hanami-zsh) - Zsh plugin for hanami projects.
 
 ### Building APIs
 * [jsonapi-hanami](http://jsonapi-rb.org) - Efficiently and conveniently build [JSON API](http://jsonapi.org)-compliant APIs with Hanami.
