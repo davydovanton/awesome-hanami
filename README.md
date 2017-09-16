@@ -71,6 +71,8 @@ The goal is to help every hanami developer to build an awesome product/service.
 ### Editors and IDE
 * [How to run Hanami in RubyMine](https://medium.com/@tetyanachupryna/how-to-run-hanami-in-rubymine-dff342cb0114#.7jb2bjq9f)
 * [projectile-hanami](https://github.com/avdgaag/projectile-hanami) - Projectile Hanami is an Emacs minor mode, based on Projectile, for navigating Hanami projects.
+* [Vim Hanami](https://github.com/sovetnik/vim-hanami) - plugin that gives you faster navigation between semantically associated files, like Action <-> View, Entity <-> Repository or Spec <-> Entity.
+* [Vim Minispec](https://github.com/sovetnik/vim-minispec) - plugin runs your Gem or Hanami Minitest specs and displays the results in Vim quickfix.
 
 ## Vanilla Libraries and Hanami
 * [omniauth](https://github.com/intridea/omniauth) - [Hanami with OAuth](http://codetunes.com/2016/hanami-with-oauth/)
