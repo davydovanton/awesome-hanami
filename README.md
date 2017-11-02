@@ -99,7 +99,6 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client)
 * [distruct-me](https://github.com/MorozovaLiuda/distruct-me) - App on Hanami for self-distructing messages
 * [hanami-jwt-example](https://github.com/nickgnd/hanami-jwt-example) - A simple JSON API web application built with Hanami which provides jwt-authentication, password encryption and CORS support.
-* [firefly](https://github.com/ariejan/firefly) - Firefly is an elegant solution for personal media hosting and URL shortening.
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) (compatible with [AnyCable](http://anycable.io/))
