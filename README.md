@@ -34,6 +34,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
 * [tachiban](https://github.com/sebastjan-hribar/tachiban) - Authentication with bcrypt for Hanami apps
 * [omniauth-hanami](https://github.com/katafrakt/omniauth-hanami) – Allows to use Hanami repository as OAuth provider (similar to [omniauth-identity](https://github.com/intridea/omniauth-identity))
+* [kan](https://github.com/davydovanton/kan) - Simple, light and functional authorization library Edit
 
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
