@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 * Use the following format: `[LIBRARY](LINK) - DESCRIPTION.`
-* The link should be the name of the Gem for Rails.
+* The link should be the name of the Gem for Hanami.
 * Add one link per Pull-Request.
 * Keep descriptions concise, clear and simple, and end them with a period / stop.
 * New categories, or improvements to the existing ones are also welcome.
