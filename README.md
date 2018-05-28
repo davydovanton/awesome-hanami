@@ -91,6 +91,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [loan application platform](http://creditas.com.br) - A brazilian startup for credit loan using car or house as guarantee.
 
 ### Open Source
+* [cookie_box](https://github.com/davydovanton/cookie_box) - Follow and controll issues from several repositories from one place.
 * [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
 * [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place ([Sources](https://github.com/hanami/contributors)).
 * [app.dartboard.io](http://app.dartboard.io) - Online darts scorer app built with Hanami([Sources](https://github.com/stravid/datsu-api))
