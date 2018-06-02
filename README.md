@@ -52,6 +52,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [hanami-sequel](https://github.com/malin-as/hanami-sequel) - A Sequel-only replacement of [hanami-model](https://github.com/hanami/model), including CLI extension and model generation.
 
 ### Pagination
+* [pagy](https://github.com/ddnexus/pagy) - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
 * [hanami-pagination](https://github.com/davydovanton/hanami-pagination) - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
 ### CLI
