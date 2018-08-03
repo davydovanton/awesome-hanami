@@ -85,7 +85,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [letter_opener](https://github.com/ryanb/letter_opener) - [Preview hanami emails in browser](http://blog.davydovanton.com/2016/05/21/preview-hanami-emails-in-browser/)
 * [mongoid](https://github.com/mongodb/mongoid) - [github](https://github.com/michalvalasek/hanami-mongoid)
 * [Trailblazer](https://github.com/apotonick/trailblazer) - [Hanami with Trailblazer](https://github.com/apotonick/gemgem-hanami)
-* [Factory Girl](https://github.com/thoughtbot/factory_girl) - [Hanami with Factory Girl](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
+* [Factory Bot](https://github.com/thoughtbot/factory_bot) - [Hanami with Factory Bot](https://gist.github.com/rafaels88/8437edababcf38ee193b2ba0265e78b9)
 
 ## Hanami Project List
 ### Closed Source
