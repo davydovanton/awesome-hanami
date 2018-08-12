@@ -107,6 +107,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) (compatible with [AnyCable](http://anycable.io/))
 * [Deutsch](https://github.com/mjacobus/deutsch) - prototype tool for learning German, available [here](http://salat.netapps.website/).
+* [Burn My Fat!](https://github.com/burn-my-fat/web) (ru) – Backend for a mobile application that will help you make your body more beatiful. [YouTube](https://www.youtube.com/channel/UCDAXAwUlu-lIbjRXCUtc6oA)
 
 ## Useful Links
 * [Community page on the official site](http://hanamirb.org/community/)
