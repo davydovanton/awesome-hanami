@@ -92,10 +92,10 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ## Hanami Project List
 ### Closed Source
-* [loan application platform](http://creditas.com.br) - A brazilian startup for credit loan using car or house as guarantee.
+* [loan application platform](http://creditas.com.br) - A Brazilian startup for credit loan using a car or house as a guarantee.
 
 ### Open Source
-* [cookie_box](https://github.com/davydovanton/cookie_box) - Follow and controll issues from several repositories from one place.
+* [cookie_box](https://github.com/davydovanton/cookie_box) - Follow and control issues from several repositories from one place.
 * [OSSBoard](http://www.ossboard.org) - Simple way to connect developers and oss maintainers ([Sources](https://github.com/davydovanton/ossboard)).
 * [contributors.hanamirb.org](http://contributors.hanamirb.org) - All hanami contributors in one place ([Sources](https://github.com/hanami/contributors)).
 http://github.com/makedecision-org/core
