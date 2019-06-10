@@ -77,6 +77,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [mina-hanami](https://github.com/mgrachev/mina-hanami) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami.
 * [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) - Hanami tasks for [Capistrano](https://github.com/capistrano/capistrano).
 * [hanami-docker](https://github.com/gruz0/hanami-docker) - Dockerize your Hanami application
+* [mina-proteus](https://github.com/apontini/mina-proteus) - [Mina](https://github.com/mina-deploy/mina) plugin for Hanami than allows deploying a specific application in a specific environment.
 
 ### Editors and IDE
 * [How to run Hanami in RubyMine](https://medium.com/@tetyanachupryna/how-to-run-hanami-in-rubymine-dff342cb0114#.7jb2bjq9f)
