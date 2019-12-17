@@ -125,7 +125,7 @@ http://github.com/makedecision-org/core
 ### Blog Posts
 * [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
 * [Livereload and Hanami](https://defman.me/blog/hanami-love-livereload/)
-* [Deploying Hanami web application with Puma, Nginx and PostgreSQL using Docker](http://codrspace.com/sebastjan-hribar/deploying-hanami-web-application-with-puma-nginx-postgresql/)
+* [Deploying Hanami web application with Puma, Nginx and PostgreSQL using Docker](https://sebastjan-hribar.github.io/programming/2018/07/19/hanami-app-deployment-example.html)
 * [Getting Started with Hanami and GraphQL](https://blog.simplificator.com/2016/12/07/getting-started-with-hanami-and-graphql/)
 * [From Rails to Hanami: Models](https://blog.codeminer42.com/from-rails-to-hanami-models-d1175d2d5b33)
 * [IoT Saga - My first (for development) setup for a Hanami application](http://gabrielmalakias.com.br/hanami/iot/docker/2017/02/14/iot-saga-my-setup-for-a-hanami-application.html)
