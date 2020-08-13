@@ -59,10 +59,10 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [pagy](https://github.com/ddnexus/pagy) - The ultimate pagination ruby gem. [Integration to hanami](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/).
 * [hanami-pagination](https://github.com/davydovanton/hanami-pagination) - Pagination gem for your hanami applications. Based on ROM::Pagination plugin.
 
-### CLI
+### Events
 * [hanami-events-cloud_pubsub](https://github.com/adHawk/hanami-events-cloud_pubsub) - A hanami-events adapter for Google Cloud Pub/Sub.
 
-### Events
+### CLI
 * [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster.
 * [hanami-zsh](https://github.com/davydovanton/hanami-zsh) - Zsh plugin for hanami projects.
 
