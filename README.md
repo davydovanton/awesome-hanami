@@ -119,6 +119,7 @@ http://github.com/makedecision-org/core
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) (compatible with [AnyCable](http://anycable.io/))
 * [Deutsch](https://github.com/mjacobus/deutsch) - prototype tool for learning German, available [here](http://salat.netapps.website/).
 * [Burn My Fat!](https://github.com/burn-my-fat/web) (ru) – Backend for a mobile application that will help you make your body more beautiful. [YouTube](https://www.youtube.com/channel/UCDAXAwUlu-lIbjRXCUtc6oA)
+* [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 ## Useful Links
 * [Community page on the official site](http://hanamirb.org/community/)
