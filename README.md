@@ -38,6 +38,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 
 ### Authorization
 * [kan](https://github.com/davydovanton/kan) - Simple, light and functional authorization library
+* [tachiban](https://github.com/sebastjan-hribar/tachiban) - Tachiban includes policy based authorization support
 
 ### File Uploading
 * [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
