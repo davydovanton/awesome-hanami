@@ -110,7 +110,7 @@ http://github.com/makedecision-org/core
 * [app.dartboard.io](http://app.dartboard.io) - Online darts scorer app built with Hanami([Sources](https://github.com/stravid/datsu-api))
 * [pinfluence](https://github.com/prosi-org/pinfluence) - All world influencers in a map
 * [scripta.io](http://www.scripta.io/home) - A platform for creating and sharing documents on the web ([Sources](https://github.com/jxxcarlson/noteshare)).
-* [Flashcard Genius](https://flashcard-genius.com) - Create, print and learn flashcards ([Sources](https://github.com/Bajena/flashcard-genius))
+* [Flashcard Genius](http://flashcard-genius.com) - Create, print and learn flashcards ([Sources](https://github.com/Bajena/flashcard-genius))
 
 ### Play/Pet projects
 * [upment-hanami](https://github.com/AlexanderMint/upment-hanami) - App on Hanami: JWT, GraphQL, RSpec and [REACT client](https://github.com/AlexanderMint/upment-client)
