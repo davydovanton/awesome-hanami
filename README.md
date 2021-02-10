@@ -28,6 +28,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework.
 * [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - This gem provides jQuery and the jQuery-ujs driver for your Hanami application.
 * [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) - A RubyGem to allow you to use the Webpack as your asset pipeline in Hanami.
+* [vite_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) - A RubyGem to allow you to use the Vite.js as your asset pipeline in Hanami.
 
 ### Authentication and OAuth
 * [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Rodauth wrapper for hanami apps
