@@ -126,6 +126,7 @@ http://github.com/makedecision-org/core
 
 ## Useful Links
 * [Community page on the official site](http://hanamirb.org/community/)
+* [Hanami Mastery](https://hanamimastery.com) - Articles and Video tutorials, featuring Hanami, its dependencies (ROM-RB, DRY-RB) and all great ruby projects that may be integrated with Hanami.
 
 ### Blog Posts
 * [What I learned building an app in Hanami](https://rossta.net/blog/what-i-learned-about-hanami.html)
