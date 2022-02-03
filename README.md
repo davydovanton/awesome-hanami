@@ -38,7 +38,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [hanami-id](https://github.com/leemour/hanami_id) - Large authentication library, with generators
 
 ### Authorization
-* [jay_doubleu_tee](https://github.com/hanamimastery/jay_doublu_tee) - JWT authorization wrapper for all Ruby apps, including Hanami projects.
+* [jay_doubleu_tee](https://github.com/hanamimastery/jay_doubleu_tee) - JWT authorization wrapper for all Ruby apps, including Hanami projects.
 * [kan](https://github.com/davydovanton/kan) - Simple, light and functional authorization library
 * [tachiban](https://github.com/sebastjan-hribar/tachiban) - Tachiban includes policy based authorization support
 
