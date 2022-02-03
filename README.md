@@ -121,7 +121,7 @@ http://github.com/makedecision-org/core
 * [repressed_museum](https://github.com/vasspilka/repressed_museum) - A simple mostly static website, features basic i18n and docker integration
 * [bookshelf-delivery-example](https://github.com/bruz/bookshelf-delivery-example) - An example app with a web GUI, API and CLI using shared interactors.
 * [hanami-chat-example](https://github.com/nickgnd/hanami-chat-example) - A basic chat application built with Hanami and [LiteCable](https://github.com/palkan/litecable) (compatible with [AnyCable](http://anycable.io/))
-* [Deutsch](https://github.com/mjacobus/deutsch) - prototype tool for learning German, available [here](http://salat.netapps.website/).
+* [Deutsch](https://github.com/mjacobus/deutsch) - prototype tool for learning German.
 * [Burn My Fat!](https://github.com/burn-my-fat/web) (ru) – Backend for a mobile application that will help you make your body more beautiful. [YouTube](https://www.youtube.com/channel/UCDAXAwUlu-lIbjRXCUtc6oA)
 * [hanami-realworld-example-app](https://github.com/blrB/hanami-realworld-example-app) - Hanami codebase containing real world examples (CRUD, auth, tests etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
@@ -134,7 +134,6 @@ http://github.com/makedecision-org/core
 * [Livereload and Hanami](https://defman.me/blog/hanami-love-livereload/)
 * [Deploying Hanami web application with Puma, Nginx and PostgreSQL using Docker](https://sebastjan-hribar.github.io/programming/2018/07/19/hanami-app-deployment-example.html)
 * [Getting Started with Hanami and GraphQL](https://blog.simplificator.com/2016/12/07/getting-started-with-hanami-and-graphql/)
-* [From Rails to Hanami: Models](https://blog.codeminer42.com/from-rails-to-hanami-models-d1175d2d5b33)
 * [IoT Saga - My first (for development) setup for a Hanami application](http://gabrielmalakias.com.br/hanami/iot/docker/2017/02/14/iot-saga-my-setup-for-a-hanami-application.html)
 * [Websockets! Connecting LiteCable to Hanami](http://gabrielmalakias.com.br/ruby/hanami/iot/2017/05/26/websockets-connecting-litecable-to-hanami.html)
 
