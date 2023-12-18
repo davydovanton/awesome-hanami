@@ -52,6 +52,7 @@ The goal is to help every hanami developer to build an awesome product/service.
 * [rspec-hanami](https://github.com/davydovanton/rspec-hanami) - RSpec Matchers for Hanami
 * [shoulda-hanami](https://github.com/mcorp/shoulda-hanami) - Making tests easy on the fingers and eyes, but on hanami (old shoulda-lotus)
 * [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Utility to easily integrate [Fabrication](https://www.fabricationgem.org/) gem and Hanami
+* [hanami-cucumber](https://github.com/elct9620/hanami-cucumber) - Hanami 2 extension to support Cucumber
 
 ### Database
 * [rom_sql_graph](https://github.com/davydovanton/rom_sql_graph) - DB (sql) association graph for hanami and rom projects
